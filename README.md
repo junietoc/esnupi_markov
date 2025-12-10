@@ -29,9 +29,9 @@
 
 | Nombre | GitHub |
 |--------|--------|
-| Inka Michelle Hernández Vásquez | - |
-| Daniel Santiago López Daza | - |
-| Juliana Alejandra Nieto Cárdenas | - |
+| Inka Michelle Hernández Vásquez | [@inkiswinkis](https://github.com/inkiswinkis) |
+| Daniel Santiago López Daza | [@sankiago](https://github.com/sankiago) |
+| Juliana Alejandra Nieto Cárdenas | [@junietoc](https://github.com/junietoc) |
 
 **Profesor**: Freddy Rolando Hernández Romero
 
@@ -273,7 +273,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## 🙏 Agradecimientos
 
-- Profesor Freddy Rolando Hernández Romero por la guía y retroalimentación
+- Profesor Freddy Rolando Hernández Romero por la guiar este curso maravilloso
 - Universidad Nacional de Colombia, Departamento de Matemáticas
 - Comunidad de música 8-bit por los archivos MIDI de referencia
 
